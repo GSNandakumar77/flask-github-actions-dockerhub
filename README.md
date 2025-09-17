@@ -1,0 +1,1 @@
+###A Flask application with automated CI/CD using GitHub Actions, Pytest for testing, and Docker for containerization. The workflow runs tests on every push/PR and automatically builds and pushes Docker images to Docker Hub.
